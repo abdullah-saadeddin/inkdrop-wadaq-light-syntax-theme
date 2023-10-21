@@ -1,8 +1,5 @@
-# Bera Light Syntax Theme
-
-Bear.app like light syntax theme for Inkdrop.
-
-![Bera Light Syntax](preview.png)
+this is a fork from the Bera Light Syntax Theme
+with small modification to make it blue not red based
 
 ## How to install
 
